@@ -3,8 +3,8 @@
 ### Domains
 
 ```text
-gruta.com.mx
-server.cubatiendaalimentos.com.mx
+gruta.com[.]mx
+server.cubatiendaalimentos.com[.]mx
 ```
 
 ### Software / Process Names
